@@ -1,0 +1,4 @@
+pywin32
+PyAutoGUI
+numpy==1.17.3
+opencv_python

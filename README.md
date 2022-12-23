@@ -1,1 +1,3 @@
-# cookieClicker-auto
+# 摸鱼专区cookieClicker自动点击鹿和饼干
+
+利用opencv截图，yolox动态识别鹿和饼干，pyautogui控制鼠标点击，无自动升级
