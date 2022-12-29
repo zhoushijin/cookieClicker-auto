@@ -138,3 +138,5 @@ LabelmeData.zip
 VOC2007
 resources**/*.json
 
+YOLOX_outputs
+
