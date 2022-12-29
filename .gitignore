@@ -131,4 +131,10 @@ dmypy.json
 .vscode
 **/*.png
 
+**/*.pth
+
+LabelmeData
+LabelmeData.zip
+VOC2007
+resources**/*.json
 
