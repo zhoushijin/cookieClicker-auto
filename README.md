@@ -10,3 +10,5 @@ pip install -v -e .
 # 测试yolox是否安装成功 根据选型使用对应的数据集及权重
 python tools/demo.py image -f exps/default/yolox_tiny.py -c ./weights/yolox_tiny.pth --path assets/dog.jpg --conf 0.25 --nms 0.45 --tsize 640 --save_result --device gpu
 ```
+
+#### 训练模型需要时间
